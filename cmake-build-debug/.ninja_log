@@ -1,0 +1,21 @@
+# ninja log v7
+15	1117	8117166825603066	CMakeFiles/untitled1.dir/project1.cpp.obj.ddi	9fccb63a7202890
+1119	1380	8117166839073134	CMakeFiles/untitled1.dir/CXX.dd	3a20bce010155a6e
+1119	1380	8117166839073134	CMakeFiles/untitled1.dir/CXXModules.json	3a20bce010155a6e
+1119	1380	8117166839073134	CMakeFiles/untitled1.dir/project1.cpp.obj.modmap	3a20bce010155a6e
+1420	3023	8117166839654219	CMakeFiles/untitled1.dir/project1.cpp.obj	ff8b49b146eb52a
+3028	4200	8117166855741172	untitled1.exe	d705027022be7370
+4	968	8117173236919505	build.ninja	48b3e279e44e3f8b
+4	968	8117173236919505	C:/Users/hp/CLionProjects/untitled1/cmake-build-debug/cmake_install.cmake	48b3e279e44e3f8b
+4	516	8117173238777501	CMakeFiles/untitled1.dir/problem1.cpp.obj.ddi	ee5e822491f15cbf
+516	619	8117173243900022	CMakeFiles/untitled1.dir/CXX.dd	b112fcc72474470a
+516	619	8117173243900022	CMakeFiles/untitled1.dir/CXXModules.json	b112fcc72474470a
+516	619	8117173243900022	CMakeFiles/untitled1.dir/problem1.cpp.obj.modmap	b112fcc72474470a
+620	1632	8117173244931179	CMakeFiles/untitled1.dir/problem1.cpp.obj	56b4e4862a2c7ead
+1633	2313	8117173255072019	untitled1.exe	b4349e993172096a
+7	524	8117173357217645	CMakeFiles/untitled1.dir/problem1.cpp.obj.ddi	ee5e822491f15cbf
+525	666	8117173362401943	CMakeFiles/untitled1.dir/CXX.dd	b112fcc72474470a
+525	666	8117173362401943	CMakeFiles/untitled1.dir/CXXModules.json	b112fcc72474470a
+525	666	8117173362401943	CMakeFiles/untitled1.dir/problem1.cpp.obj.modmap	b112fcc72474470a
+670	1804	8117173363842688	CMakeFiles/untitled1.dir/problem1.cpp.obj	56b4e4862a2c7ead
+1805	2702	8117173375198643	untitled1.exe	b4349e993172096a
